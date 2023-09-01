@@ -888,10 +888,10 @@ button.style2.down {
 
 /* Form */
 .thank-you {
-  font-size: 40px;
+  font-size: 24px;
 }
 .received {
-  font-size: 24px;
+  font-size: 18px;
 }
 form {
   margin: 0 0 2em 0;
