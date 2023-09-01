@@ -887,7 +887,12 @@ button.style2.down {
 }
 
 /* Form */
-
+.thank-you {
+  font-size: 40px;
+}
+.received {
+  font-size: 24px;
+}
 form {
   margin: 0 0 2em 0;
 }
